@@ -4,7 +4,7 @@
 This project analyzes employee data to understand workforce composition, attrition patterns, and key HR metrics that support data-driven people management decisions.
 
 ## Business Overview
-The organization faces challenges related to workforce planning. HR need vsisblitity who is leaving, which departments are most affected 
+The organization faces challenges related to workforce planning. HR need visiblitity who is leaving, which departments are most affected 
 
 ### Dataset Description 
 the dataset contains employee demograpphic details, job roles,departments, salary,education levels,tenure and attrition status
